@@ -6,3 +6,11 @@ p {
     text-align:center;
     font-family:courier;
 }
+
+.pic {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    
+}
